@@ -1,0 +1,14 @@
+💠 php est un langage de programation utilise sur le web (cote serveur)
+💠 il est open source et gratuit et il possede une tres large commmunaute qui 
+        lui a premis de se developper tres repidement ,
+💠 en juillet 2004 , php5 est ne , il a iclut plusieurs nouveautre dont la plus importante et le fait
+        qu'il soit devenue oriente objet!
+
+💠 les types de base predefinis en php :
+    - int 
+    - float
+    - string
+    - bool 
+    - arryv
+    - object
+    - null
