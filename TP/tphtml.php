@@ -6,16 +6,16 @@
     <title>tp</title>
 </head>
 <body>
-    <form action="tp1.php" method="post">
+    <form action="tp3.php" method="post">
             <label for="nom">nom</label>
             <input type="text" id="nom" name="nom" placeholder="nom">
             <label for="age">age</label>
             <input type="nombre" id="age" name="age" placeholder="age">
-            <label for="niveau">niveau</label>
+            <!-- <label for="niveau">niveau</label>
             <select name="niveau[]" id="niveau" multiple>
                 <option value="1er">1er</option>
                 <option value="2er">2er</option>
-            </select> 
+            </select>  -->
             <button type="submit">envoyer</button>
     </form>
     
